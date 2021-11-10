@@ -52,5 +52,13 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KamranMirzeyev&repo=microservice.net5)](https://github.com/KamranMirzeyev/microservice.net5)
 
 
+---
+
+[website]: https://github.com/KamranMirzeyev
+[twitter]: https://twitter.com/Kamran_Mirzeyev
+[youtube]: https://youtube.com/
+[instagram]: https://instagram.com/mirzeyevkamran
+[linkedin]: https://linkedin.com//in/kamran-mirzayev-796512a0/
+[webdevplaylist]: https://www.youtube.com/
 
 
