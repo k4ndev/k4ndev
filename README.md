@@ -1,6 +1,6 @@
 ### Hi there, [KamranMirzeyev][website] 👋 
 
-[![Website](https://img.shields.io/website?label=&style=for-the-badge&url=https%3A%2F%2F)](https://)
+[![Website](https://img.shields.io/website?label=https://github.com/KamranMirzeyev&style=for-the-badge&url=https%3A%2F%2F)](https://github.com/KamranMirzeyev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Kamran_Mirzeyev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FKamranMirzeyev&screen_name=KamranMirzeyev)
 
 ## I'm a  Developer!
@@ -13,7 +13,6 @@
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
 [<img align="left" alt="Kamran_Mirzeyev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Kamran_Mirzeyev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Kamran_Mirzeyev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
