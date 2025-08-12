@@ -49,7 +49,7 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k4ndev&repo=microservice.net5)](https://github.com/k4ndev/microservice.net5)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k4ndev&repo=microservice.net5)](https://github.com/k4ndev/DDD-Clean-Architecture-.NET)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k4ndev&repo=DDD-Clean-Architecture-.NET)](https://github.com/k4ndev/DDD-Clean-Architecture-.NET)
 
 
 ---
@@ -59,6 +59,4 @@
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/mirzeyevkamran
 [linkedin]: https://linkedin.com//in/kamran-mirzayev-796512a0/
-[webdevplaylist]: https://www.youtube.com/
-
 
