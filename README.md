@@ -49,6 +49,7 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k4ndev&repo=microservice.net5)](https://github.com/k4ndev/microservice.net5)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k4ndev&repo=microservice.net5)](https://github.com/k4ndev/DDD-Clean-Architecture-.NET)
 
 
 ---
